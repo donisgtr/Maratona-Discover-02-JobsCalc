@@ -1,0 +1,26 @@
+{
+  "name": "Maratona-Discover-02-JobsCalc",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">   <img alt=\"JobsCalc\" title=\"JobsCalc\" src=\"https://i.imgur.com/Veqm7Gh.png\" width=\"220px\" /> </h1>",
+  "main": "src/server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donisgtr/Maratona-Discover-02-JobsCalc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donisgtr/Maratona-Discover-02-JobsCalc/issues"
+  },
+  "homepage": "https://github.com/donisgtr/Maratona-Discover-02-JobsCalc#readme"
+}
