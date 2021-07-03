@@ -45,6 +45,55 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
+# —  RESUMO DAS AULAS
+
+## # [Maratona Discover] Aula 01 – Construindo o Motor da Nave
+
+**Primeiro vamos ver se temos o Node.js instalado.**
+
+Criar o arquivo package.json
+
+```jsx
+npm init -y 
+```
+
+```jsx
+npm i express
+```
+
+**O que é o Express? é um pacote para criar um servidor HTTP.**
+
+Ele vai no NPM e baixa 50 pacotes que o express trás pra mim.
+
+Verificar se o Foi adicionado como dependência.
+
+ 
+
+```jsx
+npm i nodemon -d
+```
+
+Só rodar agora o comando 
+
+```jsx
+npm run dev
+```
+
+Instalar o template engine [https://ejs.co/](https://ejs.co/)
+
+```jsx
+npm i ejs
+```
+
+instalar o plugin EJS do vscode extensão.
+
+o que é o EJS? e um moto que vai renderizar o html
+
+```jsx
+exemplo: res.render(views + "index") por isso o comando render.
+```
+
+
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
